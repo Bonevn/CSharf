@@ -1,0 +1,10 @@
+E:\C#\bai4_listbox\bai4_listbox\bin\Debug\bai4_listbox.exe.config
+E:\C#\bai4_listbox\bai4_listbox\bin\Debug\bai4_listbox.exe
+E:\C#\bai4_listbox\bai4_listbox\bin\Debug\bai4_listbox.pdb
+E:\C#\bai4_listbox\bai4_listbox\obj\Debug\bai4_listbox.csproj.AssemblyReference.cache
+E:\C#\bai4_listbox\bai4_listbox\obj\Debug\bai4_listbox.Form1.resources
+E:\C#\bai4_listbox\bai4_listbox\obj\Debug\bai4_listbox.Properties.Resources.resources
+E:\C#\bai4_listbox\bai4_listbox\obj\Debug\bai4_listbox.csproj.GenerateResource.cache
+E:\C#\bai4_listbox\bai4_listbox\obj\Debug\bai4_listbox.csproj.CoreCompileInputs.cache
+E:\C#\bai4_listbox\bai4_listbox\obj\Debug\bai4_listbox.exe
+E:\C#\bai4_listbox\bai4_listbox\obj\Debug\bai4_listbox.pdb
