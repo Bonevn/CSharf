@@ -1,0 +1,10 @@
+E:\C#\CSharf\Combo-CheckBox-RadioButton\Bai1\Bai1\bin\Debug\Bai1.exe.config
+E:\C#\CSharf\Combo-CheckBox-RadioButton\Bai1\Bai1\bin\Debug\Bai1.exe
+E:\C#\CSharf\Combo-CheckBox-RadioButton\Bai1\Bai1\bin\Debug\Bai1.pdb
+E:\C#\CSharf\Combo-CheckBox-RadioButton\Bai1\Bai1\obj\Debug\Bai1.csproj.AssemblyReference.cache
+E:\C#\CSharf\Combo-CheckBox-RadioButton\Bai1\Bai1\obj\Debug\Bai1.Form1.resources
+E:\C#\CSharf\Combo-CheckBox-RadioButton\Bai1\Bai1\obj\Debug\Bai1.Properties.Resources.resources
+E:\C#\CSharf\Combo-CheckBox-RadioButton\Bai1\Bai1\obj\Debug\Bai1.csproj.GenerateResource.cache
+E:\C#\CSharf\Combo-CheckBox-RadioButton\Bai1\Bai1\obj\Debug\Bai1.csproj.CoreCompileInputs.cache
+E:\C#\CSharf\Combo-CheckBox-RadioButton\Bai1\Bai1\obj\Debug\Bai1.exe
+E:\C#\CSharf\Combo-CheckBox-RadioButton\Bai1\Bai1\obj\Debug\Bai1.pdb
