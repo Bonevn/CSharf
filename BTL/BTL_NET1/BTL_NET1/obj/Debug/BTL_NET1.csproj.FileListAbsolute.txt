@@ -1,0 +1,14 @@
+E:\C#\CSharf\BTL\BTL_NET1\BTL_NET1\bin\Debug\BTL_NET1.exe.config
+E:\C#\CSharf\BTL\BTL_NET1\BTL_NET1\bin\Debug\BTL_NET1.exe
+E:\C#\CSharf\BTL\BTL_NET1\BTL_NET1\bin\Debug\BTL_NET1.pdb
+E:\C#\CSharf\BTL\BTL_NET1\BTL_NET1\bin\Debug\Guna.UI2.dll
+E:\C#\CSharf\BTL\BTL_NET1\BTL_NET1\obj\Debug\BTL_NET1.csproj.AssemblyReference.cache
+E:\C#\CSharf\BTL\BTL_NET1\BTL_NET1\obj\Debug\BTL_NET1.Form1.resources
+E:\C#\CSharf\BTL\BTL_NET1\BTL_NET1\obj\Debug\BTL_NET1.Properties.Resources.resources
+E:\C#\CSharf\BTL\BTL_NET1\BTL_NET1\obj\Debug\BTL_NET1.csproj.GenerateResource.cache
+E:\C#\CSharf\BTL\BTL_NET1\BTL_NET1\obj\Debug\BTL_NET1.csproj.CoreCompileInputs.cache
+E:\C#\CSharf\BTL\BTL_NET1\BTL_NET1\obj\Debug\BTL_NET1.csproj.CopyComplete
+E:\C#\CSharf\BTL\BTL_NET1\BTL_NET1\obj\Debug\BTL_NET1.exe
+E:\C#\CSharf\BTL\BTL_NET1\BTL_NET1\obj\Debug\BTL_NET1.pdb
+E:\C#\CSharf\BTL\BTL_NET1\BTL_NET1\obj\Debug\BTL_NET1.Dashboard.resources
+E:\C#\CSharf\BTL\BTL_NET1\BTL_NET1\obj\Debug\BTL_NET1.Add.resources
