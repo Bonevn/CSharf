@@ -32,8 +32,7 @@ namespace BTL_NET1
         {
             Add addForm = new Add();
             addForm.ShowDialog();
-            dgvDanhSachCanBo.DataSource = null; // Xóa dữ liệu cũ
-
+            dgvDanhSachCanBo.DataSource = null;
             dgvDanhSachCanBo.DataSource = ListDanhSachCanBo.Instance.ListDanhsachcb1;
 
         }
