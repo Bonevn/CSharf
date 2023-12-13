@@ -1,0 +1,10 @@
+E:\C#\CSharf\Cacdieukhiendacbiet\Bai31\Bai31\bin\Debug\Bai31.exe.config
+E:\C#\CSharf\Cacdieukhiendacbiet\Bai31\Bai31\bin\Debug\Bai31.exe
+E:\C#\CSharf\Cacdieukhiendacbiet\Bai31\Bai31\bin\Debug\Bai31.pdb
+E:\C#\CSharf\Cacdieukhiendacbiet\Bai31\Bai31\obj\Debug\Bai31.csproj.AssemblyReference.cache
+E:\C#\CSharf\Cacdieukhiendacbiet\Bai31\Bai31\obj\Debug\Bai31.Form1.resources
+E:\C#\CSharf\Cacdieukhiendacbiet\Bai31\Bai31\obj\Debug\Bai31.Properties.Resources.resources
+E:\C#\CSharf\Cacdieukhiendacbiet\Bai31\Bai31\obj\Debug\Bai31.csproj.GenerateResource.cache
+E:\C#\CSharf\Cacdieukhiendacbiet\Bai31\Bai31\obj\Debug\Bai31.csproj.CoreCompileInputs.cache
+E:\C#\CSharf\Cacdieukhiendacbiet\Bai31\Bai31\obj\Debug\Bai31.exe
+E:\C#\CSharf\Cacdieukhiendacbiet\Bai31\Bai31\obj\Debug\Bai31.pdb
