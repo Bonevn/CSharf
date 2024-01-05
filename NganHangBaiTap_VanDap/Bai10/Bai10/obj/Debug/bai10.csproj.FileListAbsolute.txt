@@ -1,0 +1,10 @@
+E:\C#\CSharf\NganHangBaiTap_VanDap\Bai10\Bai2_listbox\bin\Debug\Bai2_listbox.exe.config
+E:\C#\CSharf\NganHangBaiTap_VanDap\Bai10\Bai2_listbox\bin\Debug\Bai2_listbox.exe
+E:\C#\CSharf\NganHangBaiTap_VanDap\Bai10\Bai2_listbox\bin\Debug\Bai2_listbox.pdb
+E:\C#\CSharf\NganHangBaiTap_VanDap\Bai10\Bai2_listbox\obj\Debug\bai10.csproj.AssemblyReference.cache
+E:\C#\CSharf\NganHangBaiTap_VanDap\Bai10\Bai2_listbox\obj\Debug\Bai10.Form1.resources
+E:\C#\CSharf\NganHangBaiTap_VanDap\Bai10\Bai2_listbox\obj\Debug\Bai2_listbox.Properties.Resources.resources
+E:\C#\CSharf\NganHangBaiTap_VanDap\Bai10\Bai2_listbox\obj\Debug\bai10.csproj.GenerateResource.cache
+E:\C#\CSharf\NganHangBaiTap_VanDap\Bai10\Bai2_listbox\obj\Debug\bai10.csproj.CoreCompileInputs.cache
+E:\C#\CSharf\NganHangBaiTap_VanDap\Bai10\Bai2_listbox\obj\Debug\Bai2_listbox.exe
+E:\C#\CSharf\NganHangBaiTap_VanDap\Bai10\Bai2_listbox\obj\Debug\Bai2_listbox.pdb

@@ -1,0 +1,10 @@
+E:\C#\CSharf\NganHangBaiTap_VanDap\Bai6\Bai6\bin\Debug\Bai3_Listbox.exe.config
+E:\C#\CSharf\NganHangBaiTap_VanDap\Bai6\Bai6\bin\Debug\Bai3_Listbox.exe
+E:\C#\CSharf\NganHangBaiTap_VanDap\Bai6\Bai6\bin\Debug\Bai3_Listbox.pdb
+E:\C#\CSharf\NganHangBaiTap_VanDap\Bai6\Bai6\obj\Debug\Bai6.csproj.AssemblyReference.cache
+E:\C#\CSharf\NganHangBaiTap_VanDap\Bai6\Bai6\obj\Debug\Bai6.Form1.resources
+E:\C#\CSharf\NganHangBaiTap_VanDap\Bai6\Bai6\obj\Debug\Bai3_Listbox.Properties.Resources.resources
+E:\C#\CSharf\NganHangBaiTap_VanDap\Bai6\Bai6\obj\Debug\Bai6.csproj.GenerateResource.cache
+E:\C#\CSharf\NganHangBaiTap_VanDap\Bai6\Bai6\obj\Debug\Bai6.csproj.CoreCompileInputs.cache
+E:\C#\CSharf\NganHangBaiTap_VanDap\Bai6\Bai6\obj\Debug\Bai3_Listbox.exe
+E:\C#\CSharf\NganHangBaiTap_VanDap\Bai6\Bai6\obj\Debug\Bai3_Listbox.pdb

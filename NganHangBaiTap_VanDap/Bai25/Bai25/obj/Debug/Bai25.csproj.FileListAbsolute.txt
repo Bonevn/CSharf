@@ -1,0 +1,10 @@
+I:\NET_1\OnTap\Bai25\bin\Debug\Bai25.exe.config
+I:\NET_1\OnTap\Bai25\bin\Debug\Bai25.exe
+I:\NET_1\OnTap\Bai25\bin\Debug\Bai25.pdb
+I:\NET_1\OnTap\Bai25\obj\Debug\Bai25.csproj.AssemblyReference.cache
+I:\NET_1\OnTap\Bai25\obj\Debug\Bai25.Form1.resources
+I:\NET_1\OnTap\Bai25\obj\Debug\Bai25.Properties.Resources.resources
+I:\NET_1\OnTap\Bai25\obj\Debug\Bai25.csproj.GenerateResource.cache
+I:\NET_1\OnTap\Bai25\obj\Debug\Bai25.csproj.CoreCompileInputs.cache
+I:\NET_1\OnTap\Bai25\obj\Debug\Bai25.exe
+I:\NET_1\OnTap\Bai25\obj\Debug\Bai25.pdb

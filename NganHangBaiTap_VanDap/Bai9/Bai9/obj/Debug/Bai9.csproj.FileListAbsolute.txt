@@ -1,0 +1,10 @@
+E:\C#\CSharf\NganHangBaiTap_VanDap\Bai9\Bai9\bin\Debug\Bai25.exe.config
+E:\C#\CSharf\NganHangBaiTap_VanDap\Bai9\Bai9\bin\Debug\Bai25.exe
+E:\C#\CSharf\NganHangBaiTap_VanDap\Bai9\Bai9\bin\Debug\Bai25.pdb
+E:\C#\CSharf\NganHangBaiTap_VanDap\Bai9\Bai9\obj\Debug\Bai9.csproj.AssemblyReference.cache
+E:\C#\CSharf\NganHangBaiTap_VanDap\Bai9\Bai9\obj\Debug\Bai9.Form1.resources
+E:\C#\CSharf\NganHangBaiTap_VanDap\Bai9\Bai9\obj\Debug\Bai25.Properties.Resources.resources
+E:\C#\CSharf\NganHangBaiTap_VanDap\Bai9\Bai9\obj\Debug\Bai9.csproj.GenerateResource.cache
+E:\C#\CSharf\NganHangBaiTap_VanDap\Bai9\Bai9\obj\Debug\Bai9.csproj.CoreCompileInputs.cache
+E:\C#\CSharf\NganHangBaiTap_VanDap\Bai9\Bai9\obj\Debug\Bai25.exe
+E:\C#\CSharf\NganHangBaiTap_VanDap\Bai9\Bai9\obj\Debug\Bai25.pdb

@@ -1,0 +1,10 @@
+E:\C#\CSharf\NganHangBaiTap_VanDap\Bai16\Bai16\bin\Debug\Bai16.exe.config
+E:\C#\CSharf\NganHangBaiTap_VanDap\Bai16\Bai16\bin\Debug\Bai16.exe
+E:\C#\CSharf\NganHangBaiTap_VanDap\Bai16\Bai16\bin\Debug\Bai16.pdb
+E:\C#\CSharf\NganHangBaiTap_VanDap\Bai16\Bai16\obj\Debug\Bai16.csproj.AssemblyReference.cache
+E:\C#\CSharf\NganHangBaiTap_VanDap\Bai16\Bai16\obj\Debug\Bai16.Form1.resources
+E:\C#\CSharf\NganHangBaiTap_VanDap\Bai16\Bai16\obj\Debug\Bai16.Properties.Resources.resources
+E:\C#\CSharf\NganHangBaiTap_VanDap\Bai16\Bai16\obj\Debug\Bai16.csproj.GenerateResource.cache
+E:\C#\CSharf\NganHangBaiTap_VanDap\Bai16\Bai16\obj\Debug\Bai16.csproj.CoreCompileInputs.cache
+E:\C#\CSharf\NganHangBaiTap_VanDap\Bai16\Bai16\obj\Debug\Bai16.exe
+E:\C#\CSharf\NganHangBaiTap_VanDap\Bai16\Bai16\obj\Debug\Bai16.pdb

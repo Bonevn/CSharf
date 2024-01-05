@@ -1,0 +1,10 @@
+E:\C#\Bai3_Listbox\Bai3_Listbox\bin\Debug\Bai3_Listbox.exe.config
+E:\C#\Bai3_Listbox\Bai3_Listbox\bin\Debug\Bai3_Listbox.exe
+E:\C#\Bai3_Listbox\Bai3_Listbox\bin\Debug\Bai3_Listbox.pdb
+E:\C#\Bai3_Listbox\Bai3_Listbox\obj\Debug\Bai3_Listbox.csproj.AssemblyReference.cache
+E:\C#\Bai3_Listbox\Bai3_Listbox\obj\Debug\Bai3_Listbox.Properties.Resources.resources
+E:\C#\Bai3_Listbox\Bai3_Listbox\obj\Debug\Bai3_Listbox.csproj.GenerateResource.cache
+E:\C#\Bai3_Listbox\Bai3_Listbox\obj\Debug\Bai3_Listbox.csproj.CoreCompileInputs.cache
+E:\C#\Bai3_Listbox\Bai3_Listbox\obj\Debug\Bai3_Listbox.exe
+E:\C#\Bai3_Listbox\Bai3_Listbox\obj\Debug\Bai3_Listbox.pdb
+E:\C#\Bai3_Listbox\Bai3_Listbox\obj\Debug\Bai3_Listbox.Form1.resources
